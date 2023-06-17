@@ -52,7 +52,6 @@ Partial Class Form1
         MinimizeBox = False
         Name = "Form1"
         ShowInTaskbar = False
-        StartPosition = FormStartPosition.CenterScreen
         Text = "Animated window like dvd saver "
         TopMost = True
         CType(PictureBox1, ComponentModel.ISupportInitialize).EndInit()
